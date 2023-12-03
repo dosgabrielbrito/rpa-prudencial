@@ -1,0 +1,14 @@
+- Abrir o arquivo .xlsx com a lista de dados para preenchimento;
+- Abrir o navegador e logar na página para preenchimento dos dados;
+
+- Copiar o valor da linha i da lista;
+- Colar no navegador;
+- Apertar ícone de "Busca";
+- Aguardar 10 segundos;
+- Clicar no resultado;
+- Selecionar opção de inclusão/exclusão;
+- Clicar em salvar;
+
+- Incrementar i e seguir os mesmos passos para inclusão/exclusão;
+
+- Após 100 lancçamentos, apertar o botão "salvar";
