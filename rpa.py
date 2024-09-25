@@ -1,8 +1,7 @@
 import pyautogui
 import time
 
-# Vetor de Dados:
-
+# Vetor de Dados (Inserir conteúdo aqui):
 dados = []
 
 # Informação sobre automação:
